@@ -7,10 +7,10 @@ We are neither for nor against the G999 Project, our aim is to provide transpare
 
 # 1. Understanding the data:
 
-### 1.1   Data Source.
+### 1.1 Data Source:
 
-      [G999 Explorer API](https://explorer.g999main.net/info)
-      
+      https://explorer.g999main.net/info
+
 ### 1.2 [Wallets movements.csv](../main/Wallet%20movements.csv)
 
   The file contains a list of wallets, of which the first transaction took place prior to 15 Oct 2020.
