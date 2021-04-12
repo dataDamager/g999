@@ -14,6 +14,8 @@ We are neither for nor against the G999 Project, our aim is to provide transpare
 ### 1.2 [Wallets movements.csv](../main/Wallet%20movements.csv)
 
   The file contains a list of wallets, of which the first transaction took place prior to 15 Oct 2020.
+  
+  IS CORPORATE DUMPING COINS? https://www.youtube.com/watch?v=E3UE1MWPFxA
 
 ####   File Description:
     1. walletid: G999 blockchain wallet address.  
